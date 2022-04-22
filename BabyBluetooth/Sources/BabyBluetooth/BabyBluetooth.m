@@ -6,6 +6,7 @@
 
 //  Created by 刘彦玮 on 15/3/31.
 //  Copyright (c) 2015年 刘彦玮. All rights reserved.
+// version:1.0.0
 
 #import "BabyBluetooth.h"
 
