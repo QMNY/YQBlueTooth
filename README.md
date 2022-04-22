@@ -1,2 +1,2 @@
 # YQBlueTooth
-SubModel-蓝牙
+SubModel-蓝牙，仅供参考
